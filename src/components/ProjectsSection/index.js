@@ -30,7 +30,7 @@ class ProjectsSection extends React.Component {
           <ExperienceUnit
             logo={catsomfgLogo}
             colour="#312F31"
-            title="WalkthroughView"
+            title="CatsOMFG"
             link="https://twitter.com/jaebv_/status/996458443262386177"
             timeperiod="2013 - 2014"
             subtitle="A website that generates random images of cats upon user request with 0.00001% chance of getting the same image again. Created using React. The website is now offline."
